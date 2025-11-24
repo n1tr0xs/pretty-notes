@@ -35,7 +35,11 @@
 ## Амуль
 В строках фльтра, где написано "Any" можешь выбрать уровень свойтсва (чем ниже оно в списке, тем оно лучше)  
 [Амулет](https://www.pathofexile.com/trade/search/Keepers/EBnkvW24f5)
-
+## Пояс
+[Пояс](https://www.pathofexile.com/trade/search/Keepers/rPy2oWyZuQ)
+## Перчатки
+Крути `Energy Shield` в фильтре брони (`Armour Filters`).  
+[Перчатки](https://www.pathofexile.com/trade/search/Keepers/OgKbGD0rtE)
 # Другое
 ## Уник фласка
 Загляни в фильтры, можешь там покрутить.  
