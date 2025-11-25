@@ -1,3 +1,5 @@
+# Поба (дерево, камни, примеры шмоток)
+[PObb.in](https://pobb.in/yllRz08SK8SL)
 # Шмотки
 ## Грудь
 [Fleshcrafter](https://www.pathofexile.com/trade/search/Keepers/RJlE9RDOh7)  
