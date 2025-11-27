@@ -36,5 +36,13 @@
 1. [Левый](https://www.pathofexile.com/trade/search/Keepers/9z0dKOM8fK)  
 На первое время можно выключить 35% увеличение эффекта и третью группу в фильтре.
 2. [Правый](https://www.pathofexile.com/trade/search/Keepers/pJwYvyRwu0)
+# Graft
+1. Эш (Сияющий силуэт)
+2. Туул (Великая лавина)
+# Пробужденные камни поддержки
+[Пробужденный: Эхо магии](https://www.pathofexile.com/trade/search/Keepers/2Kn2oyp5Ik)  
+[Пробужденный: Урон приспешников](https://www.pathofexile.com/trade/search/Keepers/4mMe6adLc9)  
+[Пробужденный: Много дополнительных снарядов](https://www.pathofexile.com/trade/search/Keepers/q92BdD0Pfg)  
+[Пробужденный: Концентрация стихий](https://www.pathofexile.com/trade/search/Keepers/aLk5QZPBue)  
 # Заметки
 Призыв мехаботов ставится только вместе с левым малым кластером, иначе не хватит маны.
