@@ -24,10 +24,10 @@
 [Шлем](https://www.pathofexile.com/trade/search/Keepers/YpQ9LBbgFY)
 # Джевелы
 ## Кластеры
-Строки с `Added Small Passive Skills also grant` выбери нужные в фильтрах поиска.  
+Строки с `Added Small Passive Skills also grant` выбери нужные в фильтрах поиска или отключи 3ю группу в фильтре, если дорого или нет вообще таких.
 Там есть сопротивления, атрибуты.
 ### Большие
-1. [Левый](https://www.pathofexile.com/trade/search/Keepers/glVk7ld2IQ)
+1. [Левый](https://www.pathofexile.com/trade/search/Keepers/eRyaVLXrFL)
 2. [Правый](https://www.pathofexile.com/trade/search/Keepers/nr7lvM22S0)
 ### Средние
 1. [Левый](https://www.pathofexile.com/trade/search/Keepers/q9P23M6pHg)
