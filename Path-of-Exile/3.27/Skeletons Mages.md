@@ -2,15 +2,15 @@
 [PObb.in](https://pobb.in/yllRz08SK8SL)
 # Шмотки
 ## Грудь
-[Fleshcrafter](https://www.pathofexile.com/trade/search/Keepers/RJlE9RDOh7)  
+С 59 уровня: [Fleshcrafter](https://www.pathofexile.com/trade/search/Keepers/RJlE9RDOh7)  
 1. Делаешь 6 дырок на станке.  
 2. Делаешь 6 связей на станке.  
 3. Красишь сферой покраски, пока не прокнет `2 зеленых + 4 синих`.
 ## Амулет
-[Replica Dragonfang's Flight](https://www.pathofexile.com/trade/search/Keepers/D6KVPJadH5)  
+С 56 уровня: [Replica Dragonfang's Flight](https://www.pathofexile.com/trade/search/Keepers/D6KVPJadH5)  
 Маслами намазать `Death Attunement` - `В ладах со смертью` (зажми альт над этой пассивкой, чтобы увидеть какие масла нужны)
 ## Щит
-[Aegis Aurora](https://www.pathofexile.com/trade/search/Keepers/V5OlMQgrup)
+С 62 уровня: [Aegis Aurora](https://www.pathofexile.com/trade/search/Keepers/V5OlMQgrup)
 ## Палка
 [Палка](https://www.pathofexile.com/trade/search/Keepers/OgKLVXQQCE)  
 В фильтрах можно выключить что-то из первой группы, если не хватает денег.  
