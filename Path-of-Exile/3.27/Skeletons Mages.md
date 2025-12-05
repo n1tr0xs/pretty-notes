@@ -71,9 +71,10 @@
 2. [Правый](https://www.pathofexile.com/trade/search/Keepers/pJwYvyRwu0)
 
 ### Самоцветы бездны
-[Самоцветы бездны](https://www.pathofexile.com/trade/search/Keepers/Kl8o6YBqi5)  
+[Самоцветы бездны](https://www.pathofexile.com/trade/search/Keepers/eRyB3WaohL)  
 Хочется больше урона - изменяй "1" на повыше в общей сумме (см. скриншот)
-![Где менять сумму](image.png)
+<img width="739" height="488" alt="image" src="https://github.com/user-attachments/assets/12460017-d2a2-47d6-8bfd-fcd59f33c0f7" />
+
 
 Во второй группе фильтра включи то, что нужно (чего еще нет).  
 Обязательно нужны:
