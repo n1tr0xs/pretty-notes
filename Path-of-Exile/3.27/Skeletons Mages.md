@@ -22,9 +22,15 @@
 [Костяные](https://www.pathofexile.com/trade/search/Keepers/V5Olqwrgup)
 ## Шлем
 [Шлем](https://www.pathofexile.com/trade/search/Keepers/YpQ9LBbgFY)
+## Ботинки
+[Ботинки](https://www.pathofexile.com/trade/search/Keepers/9z0Z6nWQCK)
 ## Пояс
-Покрути в фильтре Эффект вставленных в него самоцветов повыше, когда будут деньги.  
+Покрути в фильтре "Эффект вставленных в него самоцветов" повыше, когда будут деньги.  
 [Пояс - Darkness Enthroned](https://www.pathofexile.com/trade/search/Keepers/jWkB2EMLhX)
+## Флаконы
+На ХП флакон сделать антиблид!  
+Мана фласка, если маны не хватает свободно призывать.   
+Ртутный, Базальтовый, Гранитный.
 # Джевелы
 ## Кластеры
 Строки с `Added Small Passive Skills also grant` выбери нужные в фильтрах поиска или отключи 3ю группу в фильтре, если дорого или нет вообще таких.
