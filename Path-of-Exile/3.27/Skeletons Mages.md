@@ -1,5 +1,5 @@
 # Поба (дерево, камни, примеры шмоток)
-[PObb.in](https://pobb.in/yllRz08SK8SL)
+[PObb.in](https://pobb.in/58oDYYIJ4Gae)
 
 
 # Шмотки
