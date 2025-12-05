@@ -21,6 +21,7 @@
 [Аметистовые](https://www.pathofexile.com/trade/search/Keepers/8r5lqEoBiV)  
 [Костяные](https://www.pathofexile.com/trade/search/Keepers/V5Olqwrgup)
 ## Шлем
+На шлем со станка накинуть "+1 к максимальному количеству Зомби, +1 к максимальному колчиству Скелетов"  
 [Шлем](https://www.pathofexile.com/trade/search/Keepers/YpQ9LBbgFY)
 ## Ботинки
 [Ботинки](https://www.pathofexile.com/trade/search/Keepers/9z0Z6nWQCK)
