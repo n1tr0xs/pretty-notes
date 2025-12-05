@@ -71,16 +71,18 @@
 2. [Правый](https://www.pathofexile.com/trade/search/Keepers/pJwYvyRwu0)
 
 ### Самоцветы бездны
-[Самоцветы бездны](https://www.pathofexile.com/trade/search/Keepers/eRyB3WaohL)  
+[Самоцветы бездны](https://www.pathofexile.com/trade/search/Keepers/3q2Qlznkc5)  
 Хочется больше урона - изменяй "1" на повыше в общей сумме (см. скриншот)
-<img width="739" height="488" alt="image" src="https://github.com/user-attachments/assets/12460017-d2a2-47d6-8bfd-fcd59f33c0f7" />
+
+<img width="739" height="498" alt="image" src="https://github.com/user-attachments/assets/b00f4816-c7ba-43f2-b08d-2713e2fcb572" />
 
 
 Во второй группе фильтра включи то, что нужно (чего еще нет).  
+Можно все три свойства включить в одном самоцвете, можно разбить на несколько.
 Обязательно нужны:
- - 1 с ослеплением (blind)
- - 1 с провокацией (taunt)
- - 1 с невосприимчивостью к оскверненной крови (corrupted blood)
+ - 1 с ослеплением (`blind`)
+ - 1 с провокацией (`taunt`)
+ - 1 с невосприимчивостью к оскверненной крови (`corrupted blood`)
 
 
 # Graft
