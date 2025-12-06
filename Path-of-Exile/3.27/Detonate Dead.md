@@ -35,7 +35,7 @@
 ## Амуль
 В строках фльтра, где написано "Any" можешь выбрать уровень свойтсва (чем ниже оно в списке, тем оно лучше).  
 Следи за статами (Сила, Ловкость).  
-[Амулет](https://www.pathofexile.com/trade/search/Keepers/YpQ2j53gIY)
+[Амулет](https://www.pathofexile.com/trade/search/Keepers/9z0YDDm8HK)
 ## Пояс
 [Пояс](https://www.pathofexile.com/trade/search/Keepers/rPy2oWyZuQ)
 ## Перчатки
